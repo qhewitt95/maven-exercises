@@ -21,6 +21,7 @@ public class Example {
         }
         System.out.printf("\"%s\"%s\n,",userWord,isWordANumberMessage);
         System.out.printf("FLipped Case: %s", StringUtils.swapCase(userWord));
+
         System.out.printf("Reverse: %s", StringUtils.reverse(userWord));
 
 
